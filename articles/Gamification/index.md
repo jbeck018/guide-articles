@@ -13,4 +13,7 @@ This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/g
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
+https://en.wikipedia.org/wiki/Gamification
+https://blog.kissmetrics.com/gamification-for-better-results/
 
+Gamification is the process of adding gaming elements to non-game elements to make them more interactive.
